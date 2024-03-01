@@ -18,7 +18,7 @@
 The application is using MongoDB as database and by default it will use
 embedded MongoDB. If you restart the application, all data will be lost.
 
-To persist the data across restarts, install or run MongoDB and remove or comment all properties from src/main/resources/application.properties before starting teh application.
+To persist the data across restarts, install or run MongoDB and remove or comment all properties from src/main/resources/application.properties before starting the application.
 
 
 
